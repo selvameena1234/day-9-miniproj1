@@ -2,7 +2,7 @@
   "name": "miniproj",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/selvameena1234/day-9-miniproj1.git",
+  "homepage": "https://selvameena1234.github.io/day-9-miniproj1/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
